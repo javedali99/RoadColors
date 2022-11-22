@@ -18,3 +18,6 @@ Plot roads in a Canadian city, coloring each by its designation
 
 Worldwide:
 Plot roads in any worldwide city using OpenStreetMap data. It derives road designations from the road name. I only wrote this to work for countries that use English or Romance languages--it doesn't work for languages like German (which mashes the road designation into the road name with no spaces) or languages that don't use the Latin alphabet.
+
+
+**Article:** https://erdavis.com/2019/09/20/the-beautiful-hidden-logic-of-cities-worldwide/
